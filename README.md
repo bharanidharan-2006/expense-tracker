@@ -1,7 +1,11 @@
-# Personal Expense Tracker (React Router)
+# Expense Tracker
 
-    npm install
-    npm run dev
+Personal expense tracker built with React Router.
+
+```sh
+npm install
+npm run dev
+```
 
 Routes: `/` Dashboard, `/transactions`, `/add-transaction`, `/reports`, `/settings`.
 Data (transactions + currency) is stored in LocalStorage.
